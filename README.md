@@ -16,7 +16,7 @@ CodeVault is a secure and efficient file management application that allows user
 
 1. Clone the repository:
    sh
-   git clone https://github.com/your-username/CodeVault.git
+   git clone https://github.com/Av2901/CodeVault.git
    cd CodeVault
    
 2. Install dependencies:
