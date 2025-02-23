@@ -2,44 +2,34 @@
 
 ## Overview
 
-CodeVault is a secure and efficient file management application that allows users to upload, store, and manage their files effortlessly. With a sleek UI and robust backend, the app ensures seamless interaction while prioritizing performance and security.
+CodeVault is a lightweight, user-friendly desktop application built using Python and Tkinter, designed to store, organize, and manage code snippets efficiently. With syntax highlighting, easy search functionality, and seamless clipboard integration, it serves as a handy tool for developers who frequently reuse and reference code snippets.
 
 ## Features
 
-- *File Upload & Management*: Users can upload various file types and manage them conveniently.
-- *Secure Storage*: Ensures data integrity and security with optimized storage mechanisms.
-- *Efficient Processing*: Handles large file uploads without crashing, ensuring a smooth experience.
-- *Intuitive UI*: User-friendly design for easy navigation and interaction.
-- *Optimized Performance*: Prevents crashes and delays through efficient memory management.
+- Store & Organize: Save code snippets with metadata (title, language, and timestamp).
 
-## Installation
+- Syntax Highlighting: Automatically detects and formats code for readability.
 
-1. Clone the repository:
-   sh
-   git clone https://github.com/Av2901/CodeVault.git
-   cd CodeVault
-   
-2. Install dependencies:
-   sh
-   npm install
-   
-3. Run the application:
-   sh
-   npm start
-   
+- Clipboard Integration: Copy snippets to the clipboard with a single click.
 
-## Usage
+- Search & Filter: Quickly find stored code using keyword search and language filters.
 
-1. Open the application.
-2. Upload a file using the provided UI.
-3. Manage and organize uploaded files effortlessly.
-4. Enjoy a smooth and responsive experience without crashes.
+- Export & Import: Backup and restore snippets using JSON files.
 
-## Troubleshooting
+- Lightweight UI: Built with Tkinter and ttkbootstrap for an enhanced user experience.
 
-- *App Crash Issue*: If you experience crashes, ensure your dependencies are updated and restart the application.
-- *Slow Performance*: Try clearing cache and restarting your system.
-- *File Upload Errors*: Ensure the file type and size meet the allowed criteria.
+## 🛠️ Installation
+### Requirements
+Ensure you have Python installed. Then, install dependencies using:
+```sh
+pip install -r requirements.txt
+```
+
+### Running the Application
+Run the following command:
+```sh
+python main.py
+```
 
 ## Contributing
 
